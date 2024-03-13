@@ -1,6 +1,3 @@
-![Uploading Screenshot_2024-03-14-01-49-43-34.jpg…]()
-
-
 # OS_Project
 File System Integrity checker
 
